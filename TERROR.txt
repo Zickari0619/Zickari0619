@@ -1,0 +1,184 @@
+#EXTM3U 
+
+#EXTINF:-1 tvg-logo="https://compucalitv.org/wp-content/uploads/2023/08/Dracula-Mar-sangre-2023-HD-1080p-720p-portada.jpg" group-title=“”,Dracula Mar de Sangre
+https://dl.dropbox.com/scl/fo/2a6yiett9ygqrz6k4bc57/h/Dr%C3%A1cula%20Mar%20de%20sangre%20%282023%29.mkv?rlkey=tnu45r5ekzwiximkcfhrlbtb3&dl=0
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/face-of-evil-1692978343.png" group-title="",FACE OF EVIL
+https://pc-19.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/19e0e3dbaa5b0f6fc19fd106093f4d5b/EP.0.2.v0.1692981227.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/alien-invasion-1692248395.png"group-title="", Invasion alienigena
+https://pc-23.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/7add4d24b55ad606446db07821885b82/EP.0.2.v0.1692253720.360.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/camino-hacia-el-terror.jpg" group-title="",Camino hacia el terror 
+https://pc-47.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/174e703f7208f8287640a6d24862375b/EP.0.1.v0.1677960221.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/camino-hacia-el-terror-2-final-mortal.jpg" group-title="",Camino hacia el terror 2
+https://pc-18.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/663788750a1e14f0f621f7659e10389f/EP.0.1.v4.1677157543.360.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/camino-hacia-el-terror-3-dalos-por-muertos.jpg" group-title="",Camino hacia el terror 3
+https://pc-27.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/ba8c59e2cb5a0ce5148c000fb0e94b7d/EP.0.1.v2.1678231539.360.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/camino-hacia-el-terror-4.jpg" group-title="",Camino hacia el terror 4
+https://pc-23.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/7e870f83dc46a6258beb1a02716d495b/EP.0.1.v1.1677810808.360.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/camino-hacia-el-terror-5-el-linaje-canibal.jpg" group-title="",Camino hacia el terror 5
+https://pc-18.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/6eeb416b973bc34caa20b46bcd7f518f/EP.0.1.v0.1677149038.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/camino-hacia-el-terror-6-herencia-de-muerte.jpg" group-title="",Camino hacia el terror 6
+https://pc-09.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/b017aa0527a537614f2017f9c32e61c2/EP.0.1.v0.1679655725.720.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/jobwUwGIKRS1NwdEjYGlk6Rao5H.jpg" group-title="", Fear the Invisible Man (sub)
+https://pc-27.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/5d73ba283d2185443a9ab40748e11360/EP.0.0.v0.1687454421.720.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w116_and_h174_face/6aue0EtBfftVryNP11acJqOZu2h.jpg" group-title="", El amanecer de los Muertos 
+https://dl.dropboxusercontent.com/scl/fi/io21yyvch8manu7sclz08/3L-A1M3NE3CT3R-D3-L1OS-M1UTE4RT09IS.mp4?rlkey=5qr8rzn6m9vxu6dbathx8tmvw&dl=0
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/xbrPRC7doDPEoC3z35q6MXqLEBM.jpg" group-title="", Hostal 
+https://pc-30.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/10f19c31ecbb24c2e5e8f0151b9c4e71/EP.0.1.v0.1677384680.720.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/fvFYsHFyK4KB8MxezR8xUhUyFHL.jpg" group-title="", Hostal 2
+https://pc-34.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/68013ff0265484c681cfb6c19db7d3ff/EP.0.1.v0.1677457911.720.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/bWMijQjpu09Pq9jrn3SL3qTHMvS.jpg" group-title="", Hostal 3
+https://pc-35.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/bbba48424a7078fc610e1f859f06c3ba/EP.0.1.v0.1677205511.720.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/bWPEl0K0t697HGjIPZStNMByjY3.jpg" group-title="", Run Rabbit Run
+https://pc-14.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/d8d50b989f2ee952359f0cd3e5208354/EP.0.1.v0.1688523039.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/terrifier-2-2-1668848710.jpg" group-title="", Terrifier 1
+https://pc-46.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/6b24db649f9309355bdd326d93bb3556/EP.0.0.v0.1677458894.720.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/yw8NQyvbeNXoZO6v4SEXrgQ27Ll.jpg" group-title="", Terrifier 2
+https://pc-23.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/6b276db56b9aaffb458b9c6de045b796/EP.0.2.v15.1681828911.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/bird-box-a-ciegas.jpg" group-title="", Bird Box a ciegas 
+https://pc-05.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/c411aee7538e51f6d0448b9b53262e67/EP.0.1.v0.1677822067.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/bird-box-barcelona-1689692096.png" group-title="", Bird Box Barcelona
+https://pc-22.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/fece43424e29931e7919bcf338143c10/EP.0.1.v0.1689700603.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/destino-final.jpg" group-title="", destino final 
+https://pc-29.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/27fda16ab8f73ef5bca049f9a3012d2c/EP.0.1.v0.1677211801.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/destino-final-2.jpg" group-title="", destino final 2
+https://pc-29.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/ce7aba964ef8c8218e558cc98a875583/EP.0.1.v0.1677107286.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/destino-final-3.jpg" group-title="", destino final 3
+https://pc-28.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/9de0282640c673269b590c870626bbf7/EP.0.1.v0.1677456801.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/destino-final-4.jpg" group-title="", destino final 4
+https://pc-26.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/68a451e464278ad07c6567f3a2d540b9/EP.0.1.v0.1678025869.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/destino-final-5.jpg" group-title="", destino final 5
+https://pc-40.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/3acd98cf0173baa18622c80f9728575e/EP.0.1.v0.1677230498.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/exterminio.jpg" group-title="", Exterminio- 28 Days Later(2003)
+https://pc-25.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/241f2a694bae058bdfd9399eb4f9f97a/EP.0.1.v0.1677494445.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/puppet-master-la-venganza-de-los-munecos-1578436205.jpg" group-title="", Puppet Master - La Venganza de Los Muñecos(1989)
+https://pc-28.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/018d3e7348a5a118a2b0fffe8221aee5/EP.0.1.v0.1677160229.360.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-casa-de-los-1000-cadaveres-1585696805.jpg" group-title="", La Casa de Los 1000 Cadáveres
+https://pc-12.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/d55e4a51b6326227b8410b5e4d6dd0e4/EP.0.1.v0.1679680396.360.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-casa-de-cera.jpg" group-title="", La Casa de Cera
+https://pc-16.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/cbf7a756b397c8257b3a2ee74b2e0776/EP.0.1.v0.1677787454.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-ejercito-de-frankenstein-1603819509.jpg" group-title="", Frankenstein’s Army
+https://pc-35.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/72e97422f3947a42c80c432dc56f2778/EP.0.1.v0.1676669341.360.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/las-voces.jpg" group-title="", Las Voces(2014)
+https://pc-36.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/394e9ce462cb25c0bd34b9c98f4aeb9d/EP.0.1.v0.1677288133.720.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/ljo1ocj3rQP6X9lpuxDWsW47iWd.jpg" group-title="", Extinción (2022)
+https://pc-10.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/59430cf377ee80128c9c32d7ff67b1d2/EP.0.1.v0.1687453876.720.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/h2peRx0F8tO8crFVkOeKUK2q8BR.jpg" group-title="", Extinction (2015)
+https://pc-03.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/be770953bbe069cd3facc4189ddaafb1/EP.0.1.v0.1676853110.360.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-noche-del-demonio.jpg" group-title="",La Noche del Demonio
+https://pc-06.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/a804f3ca6a876e9fb2bbaedfb2838df5/EP.0.1.v0.1677782178.360.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-noche-del-demonio-2.jpg" group-title="",La Noche del Demonio 2
+https://pc-24.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/3f4c638e42ff462eaead5b17758d9346/EP.0.1.v0.1677413956.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-noche-del-demonio-3.jpg" group-title="",La Noche del Demonio 3
+https://pc-27.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/0edbb13bd117d97f98c5dc66ab1f01a0/EP.0.1.v0.1678347697.360.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-noche-del-demonio-4-la-ultima-llave.jpg" group-title="",La Noche del Demonio 4 :La última llave
+https://pc-22.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/01207304254f033a8940bdad165393f9/EP.0.1.v0.1677392451.720.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/vR2qo6fAsrIyhJ3cbeVdv8YqwWk.jpg" group-title="",La Noche del Demonio:La Puerta Roja
+https://ia902704.us.archive.org/19/items/i-1ns-1di-3uos/I1ns1di3uos.mp4
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-nino.jpg" group-title="",The Boy 
+https://pc-45.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/4b9d0cb7777536dba602714c2e56a194/EP.0.1.v0.1678561251.720.m3u8 
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/brahms-el-nino-2-1584735004.jpg" group-title="",Brahms: The Boy 2 
+https://pc-11.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/03bcbafb8076594367298b98ae11939c/EP.0.1.v1.1677079557.360.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/jeepers-creepers-reborn-2-1669011404.jpg" group-title="",Jeepers Creepers 4 Reborn 
+https://pc-21.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/9df8f6e7db83540e925f9cd76225de96/EP.0.1.v3.1675968140.m3u8 
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/jeepers-creepers-3.jpg" group-title="",Jeepers Creepers 3 
+https://pc-02.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/9ced69e4519c2f424887e2b4eeed1f97/EP.0.1.v0.1677342226.m3u8 
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/jeepers-creepers-2.jpg" group-title="",Jeepers Creepers 2 
+https://pc-25.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/0ad974c5167a6c740ba6f3a0f0186050/EP.0.1.v0.1677375174.m3u8 
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/jeepers-creepers.jpg" group-title="",Jeepers Creepers 
+https://pc-13.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/575837dc864eda558b8012bb791e4af3/EP.0.1.v0.1677582535.1080.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-exorcism-of-god-2-1669168202.jpg" group-title="",El Exorcismo De Dios 
+https://server33.pelispluscdn.info/newhls/cff8525844fd9f8999c8b381548d8f1c/EP.0.2.v0.1676102198.720.m3u8 
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-nina-de-la-comunion-2-1681842004.jpg" group-title="",La niña de la comunión 
+https://server18.pelispluscdn.info/newhls/4ef039e4de5598dc16f53433dd0e9b89/EP.0.1.v0.1681845227.720.m3u8 
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/smile-2-1668779779.jpg" group-title="",smile 
+https://dl.dropbox.com/s/nr8czlw9r2bw1m2/SMILL3.mp4
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/scream-vi-2-1678406167.jpg" group-title="",Scream VI 
+https://server11.pelispluscdn.info/newhls/6199c61ff303317754546068dbf1a670/EP.0.1.v4.1681635027.720.m3u8 
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/winnie-the-pooh-blood-and-honey-2-1674952565.jpg" group-title="",winnie-the-pooh -sangre-y-miel 
+https://server14.pelispluscdn.info/newhls/71cd9532e68a5167d48ce78ec7b8fd3e/EP.0.2.v5.1681635880.720.m3u8 
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/13-exorcismos-2-1678427403.jpg" group-title="",13 exorcismos 
+https://server10.pelispluscdn.info/newhls/481eed0076155819c5d2ea915aa7b848/EP.0.1.v0.1678441507.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-popes-exorcist-2-1680807603.jpg" group-title="",El exorcista del papa 
+https://server13.pelispluscdn.info/newhls/889fdb530a2d9b5d2b3f072187dd34eb/EP.0.2.v0.1681632596.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/posesion-infernal.jpg" group-title="",Posesión Infernal
+https://pc-38.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/4f78fbffb86662c396db2d95a47868c2/EP.0.1.v0.1677426860.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/evil-dead-rise-2-1682111766.jpg" group-title="",Posesión infernal: El despertar 
+https://pc-23.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/9ac7843153938195d4b35797c780d63d/EP.0.2.v3.1691897710.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/un-lugar-en-silencio.jpg" group-title="",Un Lugar en Silencio 
+https://server28.pelispluscdn.info/newhls/ecfd75857eaddb446a199090154e8351/EP.0.1.v1.1677421356.720.m3u8 
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/20/01/02/21/46/4781968.jpg" group-title="",Un Lugar En Silencio 2 
+https://ia601600.us.archive.org/17/items/un-lugar-en-silencio-2_202304/Un%20Lugar%20En%20Silencio%202.mp4
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/cocaine-bear-2-1678311727.jpg" group-title="",OSO INTOXICADO 
+https://server44.pelispluscdn.info/newhls/1ae4f17a998e249262cc03907da84e44/EP.0.2.v2.1678849122.720.m3u8 
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-exorcista-2-1681417802.jpg" group-title="",La Exorcista 
+https://server27.pelispluscdn.info/newhls/224f4cf3b76d57464aeb9145af31ca47/EP.0.2.v0.1681631247.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/hellraiser-1.jpg" group-title="",Hellraiser 1
+https://pc-35.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/6991d49b9a3429a451f1e865f723fccc/EP.0.1.v0.1677374022.360.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/hellraiser-2.jpg" group-title="",Hellraiser 2
+https://pc-01.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/ed93ce26203013ee408ec167094584d0/EP.0.1.v0.1677515311.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/hellraiser-iii-infierno-en-la-tierra.jpg" group-title="",Hellraiser III: Infierno en la Tierra
+https://pc-25.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/e474538020544e614b0f8cc58fb8c2a4/EP.0.1.v0.1677521472.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/hellraiser-iv-el-final-de-la-dinastia-sangrienta.jpg" group-title="",Hellraiser IV: El Final de la Dinastía Sangrienta
+https://pc-27.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/71f3914ff4b707af394217fbd2ab9670/EP.0.1.v0.1679767408.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/hellraiser-v-infierno.jpg" group-title="",Hellraiser V: Infierno
+https://pc-05.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/242573ef66d3af7f5920984c44224f97/EP.0.1.v0.1677979027.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/apollo-18.jpg" group-title="",Apollo 18
+https://pc-25.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/f6fbed4585e138be11eaf3704721005c/EP.0.1.v0.1677252907.360.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/no-abras-la-puerta-2-1670147541.jpg" group-title="",No abras la puerta
+https://pc-29.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/9a214b1911c643dedfacf40173518ec1/EP.0.2.v0.1675956740.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/frecuencia-mortal.jpg" group-title="",Nunca juegues con extraños
+https://pc-16.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/9f656fceeedeffb580996844307303bb/EP.0.1.v0.1677702481.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/frecuencia-mortal-2.jpg" group-title="",Nunca juegues con extraños 2
+https://pc-22.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/cd1adc5959fcd78b3e1e69078be44786/EP.0.1.v0.1677290357.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/frecuencia-mortal-3.jpg" group-title="",Nunca juegues con extraños 3
+https://pc-25.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/a2bfe7d26b84870703e17cc651e0da50/EP.0.1.v0.1677252406.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/chucky-el-muneco-diabolico.jpg" group-title="",Chucky:El Muñeco Diabolico
+https://pc-45.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/a40d3a58400fd447b75a033570d05762/EP.0.1.v2.1678740092.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/chucky-el-muneco-diabolico-2.jpg" group-title="",Chucky:El Muñeco Diabolico 2
+https://pc-33.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/ec78dd62cb5baf99d8b771ba6791cda1/EP.0.1.v0.1677278356.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/chucky-el-muneco-diabolico-3.jpg" group-title="",Chucky:El Muñeco Diabolico 3
+https://pc-01.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/e5e1d47877a4fc3d68c5935837454c9a/EP.0.1.v0.1677512994.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-novia-de-chucky.jpg" group-title="",La Novia de Chucky
+https://pc-17.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/88c32b691ca7b49e20f4a0ebdbb67e00/EP.0.1.v0.1677501897.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-hijo-de-chucky.jpg" group-title="",El Hijo de Chucky
+https://pc-21.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/8564a7c20b53a28e40822c39bcb8435f/EP.0.1.v1.1677564814.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-maldicion-de-chucky.jpg" group-title="",La Maldicion de Chucky
+https://pc-41.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/c42e5f3fe5118e99c668affc3ff0494e/EP.0.1.v0.1677296984.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/cult-of-chucky.jpg" group-title="",Culto de chucky
+https://pc-27.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/39d64025eff0c24760db03a736c82fc8/EP.0.2.v0.1677422693.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-niebla.jpg" group-title="",La niebla
+https://pc-44.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/a7f7079a77f3761097b54ce20585fcac/EP.0.1.v0.1677408126.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-dia-final.jpg" group-title="",El dia final
+https://pc-36.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/e3460945aceacd126919e16bf169b83c/EP.0.1.v0.1677307913.360.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/arrastrame-al-infierno-1573853407.jpg" group-title="",Arrastrame al infierno
+https://pc-41.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/c53e16038fac1cd5d5da84012276e3e2/EP.0.1.v0.1677038733.360.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/braindead-tu-madre-se-ha-comido-a-mi-perro-1599844511.jpg" group-title="",Braindead:Tu madre se ha comido a mi perro audio castellano
+https://pc-23.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/a124a1d2ceaa767d035248fc381db0a4/EP.0.1.v0.1681983837.360.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/terror-en-amityville-2005.jpg" group-title="",Terror en Amityville
+https://pc-46.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/8065a9b07d9041fdd7db9e9f6aa99a22/EP.0.1.v0.1677323815.360.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/r0ISEyXLOLPJ1PKLYRDTyzI63VO.jpg" group-title="",Halloween:H2O Veinte años despues
+https://ia800505.us.archive.org/4/items/h-2-all-4-ow-4-een-h-42-o/H2ALL4OW4EEN%20H42O.mp4
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/viernes-13th-parte-i.jpg" group-title="",Viernes 13 parte 1
+https://pc-22.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/fdac96a89943248ccd414bc7f75d937d/EP.0.1.v0.1677787487.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/viernes-13th-parte-ii.jpg" group-title="",Viernes 13 parte 2
+https://pc-01.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/f1cad21d7d449089ee2b0542cda59ede/EP.0.1.v0.1677723014.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/viernes-13th-parte-iii.jpg" group-title="",Viernes 13 parte 3
+https://pc-14.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/9ffccd1bbb6fa00e847bf239c7ba8a22/EP.0.1.v0.1677549801.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/viernes-13-parte-iv-capitulo-final.jpg" group-title="",Viernes 13 parte 4:Capitulo final
+https://pc-36.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/97d88d01694a45da4ba9d68736940368/EP.0.1.v0.1677342779.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/viernes-13-parte-v-un-nuevo-comienzo.jpg" group-title="",Viernes 13 parte 5:Un nuevo comienzo
+https://pc-23.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/f87d3eba19e10bb7ecdeb617ebb143a2/EP.0.1.v0.1678034247.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/viernes-13th-part-vi-jason-vive.jpg" group-title="",Viernes 13 parte 6:Jason vive
+https://pc-24.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/6d9543183632d54051cf74406b6a560d/EP.0.1.v0.1677588029.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/viernes-13th-part-vii-sangre-nueva.jpg" group-title="",Viernes 13 parte 7:Sangre nueva
+https://pc-03.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/4e299618cf8345749c07e9018073cc29/EP.0.1.v0.1677622714.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/viernes-13th-parte-viii-jason-vuelve-para-siempre.jpg" group-title="",Viernes 13 parte 8:Jason vuelve para siempre
+https://pc-20.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/d55f4094612f24c32e9820c522cf2eb4/EP.0.1.v0.1677424059.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/viernes-13-parte-ix-jason-se-va-al-infierno.jpg" group-title="",Viernes 13 parte 9:Jason se va al infierno
+https://pc-36.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/ed169f9969496662d0a385b418f915dd/EP.0.1.v0.1677328109.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/viernes-13-2009.jpg" group-title="",Viernes 13 (2009)
+https://pc-11.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/9b1bdf86d35f7c22bc0ec818d7d6503d/EP.0.1.v0.1677299330.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-ciempies-humano.jpg" group-title="",El Ciempies Humano
+https://ia804703.us.archive.org/12/items/v_20220320/v.mp4
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-ciempies-humano-2.jpg" group-title="",El Ciempies Humano 2
+https://ia600507.us.archive.org/33/items/3l-100p-13s.-2.720p-sub.-sin-peli/3l100p13s.2.720pSub.SinPeli.mp4
