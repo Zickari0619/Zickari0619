@@ -1,3 +1,23 @@
+#EXTINF:-1 tvg-logo""group-title="CABALLEROS DEL ZODIACO",CABALLEROS DEL ZODIACO 
+https://raw.githubusercontent.com/Zickari0619/Zickari0619/main/12CASAS.txt
+
+#EXTINF:-1 tvg-logo""group-title="CABALLEROS DEL ZODIACO",HADES
+https://raw.githubusercontent.com/Zickari0619/Zickari0619/main/HADES.txt
+
+#EXTINF:-1 tvg-logo""group-title="CABALLEROS DEL ZODIACO",ASGARD
+https://raw.githubusercontent.com/Zickari0619/Zickari0619/main/ASGARD.txt
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1,tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/57c7ed67-f9d0-47a8-82dc-7506d8128ea8/depphfk-4e6cf5c0-b894-4005-8ee6-907fa56f6f28.png/v1/fill/w_1024,h_465/los_caballeros_del_zodiaco_logo__replica__by_supermariocarlos_depphfk-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDY1IiwicGF0aCI6IlwvZlwvNTdjN2VkNjctZjlkMC00N2E4LTgyZGMtNzUwNmQ4MTI4ZWE4XC9kZXBwaGZrLTRlNmNmNWMwLWI4OTQtNDAwNS04ZWU2LTkwN2ZhNTZmNmYyOC5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.TULhq6tr7IUM0CY6oLUawfgNKHy3EKYgnS1XUe2tlmw"group-title="Saint Seiya:12 casas",1 Las Leyendas de una Nueva era
 http://archive.org/download/emillst_d601p_ymail4_23/C1/1.mp4
